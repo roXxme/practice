@@ -39,7 +39,7 @@ class Guest():
         else:
             print('Sorry, no vacant rooms available')
 
-for g_name in ['Josh', 'Hans', 'Evan', 'Kyle', 'Ted', 'Karl', 'Sam']:
+for g_name in ['Josh', 'Hans', 'Evan', 'Kyle', 'Ted', 'Karl', 'Sam', 'Ava']:
     guest = Guest(g_name)
     print(guest.name)
     guest.is_regd()

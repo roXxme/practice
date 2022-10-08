@@ -6,3 +6,6 @@ If guest has a key, then it shows registered otherwise it assign a key to unregi
 If all keys are allocated then it shows full
 
 this file also contains a function, which reversed the input string
+
+#inherit-exmpl.py
+This file contains example of containership and inheritance in python
