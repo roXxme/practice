@@ -10,3 +10,4 @@ Uncomment the code to use the reverse string function.
 
 #inherit-exmpl.py
 This file contains example of containership and inheritance in python.
+The example is taken from udemy online course.
