@@ -8,7 +8,7 @@
 #cap("Verse")
 
 
-#guest= {'John':'A011', 'Kyle':'A009', 'Jake':'BQ02'}
+
 # class which allocate keys to guest
 class Guest():   
     guest= {'John':'A011', 'Kyle':'A009', 'Jake':'BQ02'}
