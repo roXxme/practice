@@ -39,7 +39,7 @@
 # n.dec()
 # n.shoval()
 
-
+# Show result of student
 class Result(): #check available students and new student 
     stud_marks = {"A":88, 'B':71, 'C':84,'D':95,'E':60,'F':89}
     def add_rslt(self, student, marks):
